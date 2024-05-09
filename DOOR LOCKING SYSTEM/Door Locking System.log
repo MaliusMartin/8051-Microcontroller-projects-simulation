@@ -1,0 +1,12 @@
+# Writing all output to: H:\STUDIES\BACHELOR\4. FOURTH YEAR\SEMISTER II\EMBEDDED SYSTEM CS356\Min project\DOOR LOCKING SYSTEM\Door Locking System.log
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
+clean 2
+route 50 16
+clean 2
+filter 5
+recorner diagonal
+status_file
+
