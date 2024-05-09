@@ -60,6 +60,16 @@ If you plan to implement external memory for activity logging, you'll need to mo
 * This README provides a general overview. Refer to the project's code comments for detailed implementation specifics.
 * The project is designed for simulation purposes. Adaptations might be necessary for real-world hardware deployment.
 
+## Contributors
+
+- [Malius Martin](https://github.com/MaliusMartin)
+<!-- - [Contributor 1](https://github.com/contributor1)
+- [Contributor 2](https://github.com/contributor2) -->
+
+## License
+
+This project is licensed under the [Apache License](LICENSE).
+
 **Feel free to contribute or ask questions!**
 
 I hope this comprehensive README effectively guides you in setting up and running your project.

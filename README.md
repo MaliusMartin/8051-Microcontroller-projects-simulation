@@ -1,63 +1,44 @@
+**8051 Microcontroller Projects Repository**
 
-## 8051 Visitor Registration and Counting System with Departmental Tracking
+This repository contains various projects based on the 8051 microcontroller, along with their source code and simulation files. Currently, the following projects are available:
 
-This project implements a visitor registration and counting system using an 8051 microcontroller. The system is designed to simulate in Proteus and provides functionalities for visitor registration, counting, and departmental tracking. The project is developed using Keil51 compiler.
+1. Door Locking System
+2. Visitor Counter System
+3. Visitor Registration with Department Tracking
 
-## Features
+**Repository:** [8051 Microcontroller Projects](https://github.com/MaliusMartin/8051-Microcontroller-projects-simulation.git)
 
-- **Visitor Registration:** Users can register their presence upon entry, selecting their respective department.
-  
-- **Visitor Counting:** Real-time tracking of total visitors and department-wise counts.
-  
-- **Exit Detection:** Accurate tracking of visitor departures to update the count accordingly.
-  
-- **LCD Display:** Provides a user-friendly interface to display visitor counts and department-wise data.
+**Tools Used:**
 
-## Additional Specific Tasks
+- Compiler: Keil51
+- Simulation Software: Proteus v8.13
 
-- **Record of Indexed Departments:** Efficient tracking of visitors by department.
-  
-- **Visiting Activities Record:** External memory records visiting activities including date/time, activity type, department, and total occupants per department.
-  
-- **Highly Occupied Departments List:** Hourly list of highly occupied departments within a 24-hour cycle.
+**Getting Started:**
 
-## Getting Started
+To begin with these projects, ensure you have the following software installed:
 
-1. **Software Requirements:**
-   - Proteus (for simulation)
-   - Keil51 compiler (for firmware development)
+1. Keil51 compiler
+2. Proteus v8.13 simulation software
 
-2. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/8051-Visitor-Registration.git
+Follow these steps to set up and run the projects:
+
+1. Clone this repository using Git:
+   ```
+   git clone https://github.com/MaliusMartin/8051-Microcontroller-projects-simulation.git
    ```
 
-3. **Open in Keil51:**
-   Open the project in Keil51 and build the firmware.
+2. Open the respective project folders for each of the three projects.
 
-4. **Simulate in Proteus:**
-   Open the Proteus simulation file and run the simulation.
+3. Compile the source code using Keil51 compiler.
 
-5. **Explore the Code:**
-   - `main.c`: Contains the main firmware code.
-   - `lcd.h`: Header file for LCD functions.
-   - `lcd.c`: Source file for LCD functions.
+4. Run the simulations using Proteus v8.13.
 
-## Usage
+**Contributing:**
 
-1. Simulate the project in Proteus.
-2. Follow on-screen instructions to register visitor entry and exit.
-3. View visitor counts and department-wise data on the LCD display.
+[Malius Martin](https://github.com/MaliusMartin)
 
-## Contributors
+Contributions are always appreciated! You can contribute by creating a pull request or reporting any bugs in the issues section.
 
-- [Your Name](https://github.com/MaliusMartin)
-<!-- - [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2) -->
+**License:**
 
-## License
-
-This project is licensed under the [Apache License](LICENSE).
-
----
-
+This repository is released under the [Apache License](LICENSE). For more details, refer to the LICENSE file.
