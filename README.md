@@ -35,7 +35,9 @@ Follow these steps to set up and run the projects:
 
 **Contributing:**
 
-[Malius Martin](https://github.com/MaliusMartin)
+[Eng Malius Martin](https://github.com/MaliusMartin)
+
+[Eng Walid Waziri](https://github.com/liderwally)
 
 Contributions are always appreciated! You can contribute by creating a pull request or reporting any bugs in the issues section.
 
