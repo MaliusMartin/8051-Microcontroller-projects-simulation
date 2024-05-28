@@ -62,7 +62,7 @@ If you plan to implement external memory for activity logging, you'll need to mo
 
 ## Contributors
 
-- [Eng Walid Waziri](https://github.com/liderwally)
+- [Walid Waziri](https://github.com/liderwally)
 <!-- - [Contributor 1](https://github.com/contributor1)
 - [Contributor 2](https://github.com/contributor2) -->
 

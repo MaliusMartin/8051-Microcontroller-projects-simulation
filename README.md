@@ -18,7 +18,7 @@ This repository contains various projects based on the 8051 microcontroller, alo
 To begin with these projects, ensure you have the following software installed:
 
 1. Keil51 compiler
-2. Proteus v8.13 simulation software
+2. Proteus v8.16 simulation software
 
 Follow these steps to set up and run the projects:
 
@@ -31,13 +31,13 @@ Follow these steps to set up and run the projects:
 
 3. Compile the source code using Keil51 compiler.
 
-4. Run the simulations using Proteus v8.13.
+4. Run the simulations using Proteus v8.16.
 
-**Contributing:**
+**Contributors:**
 
-[Eng Malius Martin](https://github.com/MaliusMartin)
+[Malius Martin](https://github.com/MaliusMartin)
 
-[Eng Walid Waziri](https://github.com/liderwally)
+[Walid Waziri](https://github.com/liderwally)
 
 Contributions are always appreciated! You can contribute by creating a pull request or reporting any bugs in the issues section.
 
