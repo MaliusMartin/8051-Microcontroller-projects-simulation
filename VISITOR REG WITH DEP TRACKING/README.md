@@ -60,6 +60,8 @@ If you plan to implement external memory for activity logging, you'll need to mo
 * This README provides a general overview. Refer to the project's code comments for detailed implementation specifics.
 * The project is designed for simulation purposes. Adaptations might be necessary for real-world hardware deployment.
 
+###NB
+please make sure the ROM.bin is available in project directory or create one before simulation.
 ## Contributors
 
 - [Walid Waziri](https://github.com/liderwally)
